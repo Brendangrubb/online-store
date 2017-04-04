@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./welcome.component.css']
 })
 export class WelcomeComponent implements OnInit {
-  welcome = "welcome page definitely works, okay??"
+  welcome = "welcome to our store!"
   constructor() { }
 
   ngOnInit() {
